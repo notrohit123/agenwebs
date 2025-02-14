@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agenwebs/static/css/main.14d89659.css",
+    "main.js": "/agenwebs/static/js/main.5d57115e.js",
+    "static/js/488.870ee446.chunk.js": "/agenwebs/static/js/488.870ee446.chunk.js",
+    "index.html": "/agenwebs/index.html",
+    "main.14d89659.css.map": "/agenwebs/static/css/main.14d89659.css.map",
+    "main.5d57115e.js.map": "/agenwebs/static/js/main.5d57115e.js.map",
+    "488.870ee446.chunk.js.map": "/agenwebs/static/js/488.870ee446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14d89659.css",
+    "static/js/main.5d57115e.js"
+  ]
+}
